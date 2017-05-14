@@ -1,4 +1,0 @@
-sceneSetups:
-- path: assets/Tuscany/Scenes/VRDemo_Tuscany.unity
-  isLoaded: 1
-  isActive: 1
