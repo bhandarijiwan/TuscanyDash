@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TuscanyDash", "Assembly-CSharp.csproj", "{21671F2A-5EE7-CE75-6159-71CFEC2272CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TuscanyDash", "Assembly-CSharp-Editor.csproj", "{823C9469-0DC6-D187-60B2-B1866F2E3550}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21671F2A-5EE7-CE75-6159-71CFEC2272CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21671F2A-5EE7-CE75-6159-71CFEC2272CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21671F2A-5EE7-CE75-6159-71CFEC2272CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21671F2A-5EE7-CE75-6159-71CFEC2272CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{823C9469-0DC6-D187-60B2-B1866F2E3550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{823C9469-0DC6-D187-60B2-B1866F2E3550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{823C9469-0DC6-D187-60B2-B1866F2E3550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{823C9469-0DC6-D187-60B2-B1866F2E3550}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
